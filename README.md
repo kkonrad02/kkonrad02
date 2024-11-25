@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an IT students, who develops apps for fun :D
+
 <!--
 **kkonrad02/kkonrad02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
